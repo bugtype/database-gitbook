@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Database 정리](README.md)
+* [Database Infra](README.md)
 
 ## 이중화 <a id="repliacation"></a>
 
+* [High Availability](repliacation/high-availability.md)
 * [Clustering](repliacation/clustering.md)
 * [Replication](repliacation/replication/README.md)
   * [MHA \(Master High Availability\)](repliacation/replication/mha-master-high-availability.md)
@@ -13,4 +14,8 @@
 
 * [Isolation level](undefined/isolation-level.md)
 * [Distributed Transaction](undefined/distributed-transaction.md)
+
+## SQL vs NoSQL
+
+* [그래서 언제 SQL/NoSQL 써야 하나요?](sql-vs-nosql/sql-nosql.md)
 
