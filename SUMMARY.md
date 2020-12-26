@@ -19,3 +19,9 @@
 
 * [그래서 언제 SQL/NoSQL 써야 하나요?](sql-vs-nosql/sql-nosql.md)
 
+## Shading <a id="shading-1"></a>
+
+* [Shading](shading-1/shading.md)
+* [ProxySQL](shading-1/proxysql.md)
+* [Untitled](shading-1/untitled.md)
+
